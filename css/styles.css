@@ -18,6 +18,6 @@ body.bg-dark {
 }
 
 .carousel-image {
-    height: 600px; /* Ajusta esta altura según tus necesidades */
+    height: 600px;
     object-fit: cover; /* Asegura que la imagen cubra completamente el área disponible */
 }

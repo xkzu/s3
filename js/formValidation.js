@@ -70,7 +70,7 @@ function updateLoginState() {
                 <button class="btn btn-outline-success" type="submit">Login</button>
             </form>
         `;
-        // Vuelve a agregar el listener al nuevo formulario
+
         const loginForm = document.getElementById('loginForm');
         if (loginForm) {
             loginForm.addEventListener('submit', function(event) {
